@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @S-mic
+- 👋 Hello, I’m @S-mic
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning Javascript 
 - 💞️ I’m looking to collaborate on everything 

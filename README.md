@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning, creating projects and everything programmming 
 - 🌱 I’m currently learning Javascript, React, nextjs, typescript
 - 💞️ I’m looking to collaborate on everything 
-- 📫 How to reach me at sasha@mybusinessapp.co.za
+- 📫 How to reach me at sashamicheldube@gmail.com
 
 <!---
 S-mic/S-mic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,17 @@
-- 👋 Hello, I’m Sasha Michell @S-mic
-- 👀 I’m interested in learning, creating projects and everything programmming 
-- 🌱 I’m currently learning Javascript, React, nextjs, typescript
-- 💞️ I’m looking to collaborate on everything 
-- 📫 How to reach me at sashamicheldube@gmail.com
+Sasha Michell
+Frontend Developer in Training
 
-<!---
-S-mic/S-mic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+About Me:
+I am an enthusiastic and dedicated learner currently specializing in modern JavaScript and React ecosystems. My journey involves building practical projects while mastering technologies like Next.js and TypeScript to create scalable web applications.
+
+Current Focus:
+• Mastering JavaScript fundamentals and advanced concepts
+• Building proficiency in React and modern frameworks
+• Developing full-stack capabilities with Next.js
+• Implementing type-safe development with TypeScript
+
+Collaboration:
+I welcome opportunities to collaborate on projects that challenge my skills and contribute to meaningful solutions. Whether it's open-source, hackathons, or innovative web applications, I'm eager to work with other developers.
+
+Contact:
+sashamicheldube@gmail.com

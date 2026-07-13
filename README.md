@@ -1,17 +1,13 @@
-Sasha Michell
-Frontend Developer in Training
-
 About Me:
-I am an enthusiastic and dedicated learner currently specializing in modern JavaScript and React ecosystems. My journey involves building practical projects while mastering technologies like Next.js and TypeScript to create scalable web applications.
+I am a Junior Full-Stack Developer who loves bridging the gap between clean frontend interfaces and reliable backend systems. While my roots are in building responsive web apps, I am actively expanding my skill set into backend infrastructure and database management to build complete digital products.
 
-Current Focus:
-• Mastering JavaScript fundamentals and advanced concepts
-• Building proficiency in React and modern frameworks
-• Developing full-stack capabilities with Next.js
-• Implementing type-safe development with TypeScript
+Current Toolkit & Focus:
+• Frontend Development: Building clean, type-safe interfaces using React, Next.js, and TypeScript.
+• Backend & Databases: Learning to manage data and environments using PostgreSQL and Docker containers.
+• Client Support: Working directly with clients to troubleshoot bugs, resolve local environment issues using ngrok, and deploy new features.
 
 Collaboration:
-I welcome opportunities to collaborate on projects that challenge my skills and contribute to meaningful solutions. Whether it's open-source, hackathons, or innovative web applications, I'm eager to work with other developers.
+I love working with team-oriented environments where I can contribute to shipping client features while learning from senior developers. I am eager to take on projects that challenge both my frontend skills and my growing backend capabilities.
 
 Contact:
 sashamicheldube@gmail.com

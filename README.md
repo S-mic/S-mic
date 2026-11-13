@@ -1,6 +1,6 @@
 About Me:
 
-I am a Junior Full-Stack Developer who loves bridging the gap between clean frontend interfaces and reliable backend systems. While my roots are in building responsive web apps, I am actively expanding my skill set into backend infrastructure and database management to build complete digital products.
+I am a Full-Stack Developer who loves bridging the gap between clean frontend interfaces and reliable backend systems. While my roots are in building responsive web apps, I am actively expanding my skill set into backend infrastructure and database management to build complete digital products.
 
 Current Toolkit & Focus:
 • Frontend Development: Building clean, type-safe interfaces using React, Next.js, and TypeScript.

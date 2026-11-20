@@ -16,7 +16,7 @@ Most of that code is private. The [portfolio](https://s-mic.github.io) has writt
 ### Public projects
 
 - **[bookshelf-capstone](https://github.com/S-mic/bookshelf-capstone)**: a Python/Flet reading tracker with views, validation, two storage back-ends and tests
-- **[ticket-management-app](https://github.com/S-mic/ticket-management-app)**: the same ticket system built in React, Vue and Twig/PHP
+- **[ticket-management-app](https://github.com/S-mic/ticket-management-app)**: the same ticket system built in React, Vue and Twig/PHP ([React demo](https://react-version-6a4pcptq2-sashas-projects-8206ecea.vercel.app/) · [Vue demo](https://vue-version-o8p8a7km0-sashas-projects-8206ecea.vercel.app/))
 
 ### Toolkit
 

@@ -13,6 +13,10 @@ I work **AI-first**. I give Claude Code agents tasks with clear context, check w
 
 Most of that code is private. The [portfolio](https://s-mic.github.io) has written case studies.
 
+### Writing
+
+Debugging stories from production on [Medium](https://medium.com/@sasha_mimi), for example [The Speed Was Real. The Time Was Wrong.](https://medium.com/@sasha_mimi/the-speed-was-real-the-time-was-wrong-42bcecb37425) and [We Fixed the Billing Bug. The Fix Stranded Six Customers.](https://medium.com/@sasha_mimi/we-fixed-the-billing-bug-the-fix-stranded-six-customers-2f9ea1765ea7)
+
 ### Public projects
 
 - **[bookshelf-capstone](https://github.com/S-mic/bookshelf-capstone)**: a Python/Flet reading tracker with views, validation, two storage back-ends and tests
@@ -24,4 +28,4 @@ Claude Code · AI agents & skills · MCP · workflow automation · PostgreSQL / 
 
 ### Contact
 
-📧 sashamicheldube@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/sasha-dube-dev)
+📧 sashamicheldube@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/sasha-dube-dev) · ✍️ [Medium](https://medium.com/@sasha_mimi)

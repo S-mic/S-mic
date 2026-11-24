@@ -20,7 +20,7 @@ Debugging stories from production on [Medium](https://medium.com/@sasha_mimi), f
 ### Public projects
 
 - **[bookshelf-capstone](https://github.com/S-mic/bookshelf-capstone)**: a Python/Flet reading tracker with views, validation, two storage back-ends and tests
-- **[ticket-management-app](https://github.com/S-mic/ticket-management-app)**: the same ticket system built in React, Vue and Twig/PHP ([React demo](https://react-version-6a4pcptq2-sashas-projects-8206ecea.vercel.app/) · [Vue demo](https://vue-version-o8p8a7km0-sashas-projects-8206ecea.vercel.app/))
+- **[ticket-management-app](https://github.com/S-mic/ticket-management-app)**: the same ticket system built in React, Vue and Twig/PHP, with a Playwright E2E suite in CI ([React demo](https://react-version-black.vercel.app/) · [Vue demo](https://vue-version-o8p8a7km0-sashas-projects-8206ecea.vercel.app/))
 
 ### Toolkit
 

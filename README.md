@@ -8,7 +8,7 @@ I work **AI-first**. I give Claude Code agents tasks with clear context, check w
 
 ### What I work on
 
-- **[MyBusinessApp](https://mybusinessapp.co.za)** (Aug 2024 – now): SaaS for South African small businesses. WhatsApp conversation workflows, automated reminders and follow-ups, billing checks that catch silent failures, and the team's agent-run release process.
+- **[MyBusinessApp](https://mybusinessapp.co.za)** (Jan 2023 – now): SaaS for South African small businesses. WhatsApp conversation workflows, automated reminders and follow-ups, billing checks that catch silent failures, and the team's agent-run release process.
 - **LOKi at Light Fibre Infrastructure** (Aug 2026 – now): the operations platform for fleet, HR, project and field teams. Approval queues for speeding warnings, paper field forms turned into web and mobile workflows, and permissions for 150+ staff.
 
 Most of that code is private. The [portfolio](https://s-mic.github.io) has written case studies.
